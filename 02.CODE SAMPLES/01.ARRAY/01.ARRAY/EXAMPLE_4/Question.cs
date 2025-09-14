@@ -62,7 +62,6 @@ Problem 5: Count Even/Odd Numbers
 
 #endregion
 
-
 #region Medium Difficulty Problems
 
 /*
@@ -137,6 +136,128 @@ Problem 5: Jagged Array Operations
 
 #endregion
 
+#region Hard Difficulty Problems
+
+/*
+--------------------------------------------------------
+Problem 1: Kadane's Algorithm (Maximum Subarray Sum)
+--------------------------------------------------------
+❓ Description:
+   Given an integer array nums, find the contiguous subarray 
+   (containing at least one number) which has the largest sum 
+   and return its sum.
+
+🔹 Example:
+   Input:  [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+   Output: 6
+   Explanation: Subarray [4, -1, 2, 1] has the largest sum = 6
+
+💡 Challenge:
+   Can you solve this in O(n) time complexity?
+--------------------------------------------------------
+Problem 2: Find the Duplicate Number
+--------------------------------------------------------
+❓ Description:
+   Given an array of integers nums containing n + 1 integers 
+   where each integer is in the range [1, n]. 
+   There is only one repeated number in nums, return it.
+
+   Constraint: 
+   - Do not modify the array
+   - Use only constant extra space
+
+🔹 Example 1:
+   Input:  [1, 3, 4, 2, 2]
+   Output: 2
+
+🔹 Example 2:
+   Input:  [3, 1, 3, 4, 2]
+   Output: 3
+--------------------------------------------------------
+Problem 3: Spiral Order Traversal of a Matrix
+--------------------------------------------------------
+❓ Description:
+   Given an m x n 2D rectangular array, 
+   return all elements of the matrix in spiral order.
+
+🔹 Example 1:
+   Input:  
+     { {1, 2, 3}, 
+       {4, 5, 6}, 
+       {7, 8, 9} }
+   Output: [1, 2, 3, 6, 9, 8, 7, 4, 5]
+
+🔹 Example 2:
+   Input:  
+     { {1, 2, 3, 4}, 
+       {5, 6, 7, 8}, 
+       {9, 10, 11, 12} }
+   Output: [1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7]
+--------------------------------------------------------
+Problem 4: Product of Array Except Self
+--------------------------------------------------------
+❓ Description:
+   Given an integer array nums, return an array answer such 
+   that answer[i] is equal to the product of all elements of 
+   nums except nums[i].
+
+   Constraint: 
+   - Time complexity: O(n)
+   - Do not use division
+
+🔹 Example:
+   Input:  [1, 2, 3, 4]
+   Output: [24, 12, 8, 6]
+--------------------------------------------------------
+Problem 5: Sliding Window Maximum
+--------------------------------------------------------
+❓ Description:
+   You are given an array of integers nums, and a sliding 
+   window of size k. Return the maximum values from each 
+   sliding window.
+
+🔹 Example:
+   Input:  nums = [1, 3, -1, -3, 5, 3, 6, 7], k = 3
+   Output: [3, 3, 5, 5, 6, 7]
+
+   Window Position → Max
+   [1  3 -1] -3  5  3  6  7  → 3
+    1 [3 -1 -3] 5  3  6  7  → 3
+    1  3 [-1 -3 5] 3  6  7  → 5
+    1  3 -1 [-3 5 3] 6  7  → 5
+    1  3 -1 -3 [5 3 6] 7   → 6
+    1  3 -1 -3  5 [3 6 7]  → 7
+
+💡 Challenge:
+   Can you find a solution better than O(n*k)?
+--------------------------------------------------------
+Bonus Conceptual Questions (Interview Style)
+--------------------------------------------------------
+1. Memory Layout:
+   🔹 What is the fundamental difference in memory between 
+      a 2D rectangular array (int[,]) and a jagged array (int[][]) 
+      in C#?
+
+2. Params Keyword:
+   🔹 How does the "params" keyword simplify working with arrays 
+      in method parameters? 
+      Write an example method that accepts a variable number of 
+      integers using params.
+
+3. Array.Copy vs. Clone:
+   🔹 What is the difference between Array.Copy() and the Clone() 
+      method? 
+      When would you use a shallow copy vs. a deep copy with arrays 
+      of reference types?
+
+4. Array Bounds:
+   🔹 What happens if you try to access an element outside the bounds 
+      of an array (e.g., arr[arr.Length])? 
+      How do you handle this safely?
+--------------------------------------------------------
+*/
+
+#endregion
 
 #region Time and Space Complexity
 /*
