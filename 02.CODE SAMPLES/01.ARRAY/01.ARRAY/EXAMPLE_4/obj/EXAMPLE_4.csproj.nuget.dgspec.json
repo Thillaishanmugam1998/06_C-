@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_3\\EXAMPLE_3.csproj": {}
+    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_4\\EXAMPLE_4.csproj": {}
   },
   "projects": {
-    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_3\\EXAMPLE_3.csproj": {
+    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_4\\EXAMPLE_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_3\\EXAMPLE_3.csproj",
-        "projectName": "EXAMPLE_3",
-        "projectPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_3\\EXAMPLE_3.csproj",
+        "projectUniqueName": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_4\\EXAMPLE_4.csproj",
+        "projectName": "EXAMPLE_4",
+        "projectPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_4\\EXAMPLE_4.csproj",
         "packagesPath": "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\",
-        "outputPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_3\\obj\\",
+        "outputPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\01.ARRAY\\01.ARRAY\\EXAMPLE_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
