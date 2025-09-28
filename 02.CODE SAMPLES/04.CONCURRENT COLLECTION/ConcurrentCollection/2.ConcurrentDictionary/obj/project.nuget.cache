@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2QoYsjX8BJTE6VoTXk9pdZ20yHl5RqPY8nam4c6oxk5zBRuu+AHwkJivtQNWJvAUYV+UFdTfv0afEvjUffChA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\04.CONCURRENT COLLECTION\\ConcurrentCollection\\2.ConcurrentDictionary\\2.ConcurrentDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
