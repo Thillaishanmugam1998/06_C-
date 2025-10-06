@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SW9f2bWICnYyCwTlaDgCZMijDFZgkSn2Hmg8sawSapmH2T6muWJq+/9HfgGEGUd4VNOsT9gJct1bi6/rOuuJPA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\05.FILE SYSTEM\\FileSystem\\4.ReadDataFromFileStreamReader\\4.ReadDataFromFileStreamReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

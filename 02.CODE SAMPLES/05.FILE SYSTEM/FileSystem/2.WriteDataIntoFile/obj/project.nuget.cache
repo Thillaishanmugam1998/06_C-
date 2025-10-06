@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2CBNk6072ViXyp60uaIJd6UYEGhTZYCSJuGz9neeaofuU/iNCej2Q5vD72ViwNkVJ722o2Y/7oYivzKY1Xd7w==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\05.FILE SYSTEM\\FileSystem\\2.WriteDataIntoFile\\2.WriteDataIntoFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
