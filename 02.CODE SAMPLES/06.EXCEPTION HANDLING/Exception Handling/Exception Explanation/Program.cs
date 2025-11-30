@@ -155,7 +155,7 @@ namespace ErrorHandlingDemo
             try
             {
                 Console.WriteLine("Trying to divide numbers...");
-                int result = 10 / 0; // ❌ Will throw DivideByZeroException
+                //int result = 10 / 0; // ❌ Will throw DivideByZeroException
             }
             catch (DivideByZeroException ex)
             {

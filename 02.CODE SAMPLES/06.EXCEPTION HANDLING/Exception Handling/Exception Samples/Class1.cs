@@ -6,8 +6,8 @@ namespace Exception_Samples
 {
     class Class1
     {
-        #region Example for unhandled exception
-        //Here exception occur while divide a/b after this line nox execute because we not 
+        #region --- 01. Example for unhandled exception ---
+        //Here exception occur while divide a/b after this line not execute because we not 
         //Handle the exception properly.
         public void WithException()
         {
@@ -18,7 +18,7 @@ namespace Exception_Samples
         }
         #endregion
 
-        #region Example for Exception handling simple
+        #region --- 02. Example for Exception handling simple ---
         public void WithExceptionHandling()
         {
             try
@@ -35,7 +35,7 @@ namespace Exception_Samples
         }
         #endregion
 
-        #region Example With Exception Handling With Property
+        #region --- 03. Example With Exception Handling With Property ---
         public void ExceptionHandling()
         {
             int Number1, Number2, Result;
