@@ -1,0 +1,14 @@
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.exe
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.deps.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.runtimeconfig.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.runtimeconfig.dev.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\bin\Debug\netcoreapp3.1\Exception Samples.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.csproj.AssemblyReference.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.AssemblyInfoInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.AssemblyInfo.cs
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\Exception Samples\obj\Debug\netcoreapp3.1\Exception Samples.genruntimeconfig.cache
