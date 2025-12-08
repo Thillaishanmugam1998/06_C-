@@ -1,0 +1,14 @@
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.exe
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.deps.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.runtimeconfig.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.runtimeconfig.dev.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\bin\Debug\netcoreapp3.1\SAMPLES.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.csproj.AssemblyReference.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.AssemblyInfoInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.AssemblyInfo.cs
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\06.EXCEPTION HANDLING\Exception Handling\SAMPLES\obj\Debug\netcoreapp3.1\SAMPLES.genruntimeconfig.cache

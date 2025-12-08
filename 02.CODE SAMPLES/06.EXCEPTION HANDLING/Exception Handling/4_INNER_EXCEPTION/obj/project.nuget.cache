@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "874lHhDlV0b3pps2iAp66v4xKNuCnLj6UVr1QHvPSFms7SXiEpOBIosNij7RPND9/6XCcBYba5JaexCPk99bFQ==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\06.EXCEPTION HANDLING\\Exception Handling\\4_INNER_EXCEPTION\\4_INNER_EXCEPTION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

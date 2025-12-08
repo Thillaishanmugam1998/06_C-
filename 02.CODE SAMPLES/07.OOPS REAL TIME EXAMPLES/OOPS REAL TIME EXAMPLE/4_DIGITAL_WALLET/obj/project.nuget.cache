@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNKFRC114ZRWG0L3pGKBPucbJ9+0zzLk3vjN/CDV0ZWmGxLAsnM8sjI/ZwEjrlXmzxTiKSGjwTcW3MYEZl7kxA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\07.OOPS REAL TIME EXAMPLES\\OOPS REAL TIME EXAMPLE\\4_DIGITAL_WALLET\\4_DIGITAL_WALLET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
