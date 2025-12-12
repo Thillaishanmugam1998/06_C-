@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\09.MULTITHREAD\\09_MULTI_THREAD\\3_ST_Example\\3_ST_Example.csproj": {}
+  },
+  "projects": {
+    "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\09.MULTITHREAD\\09_MULTI_THREAD\\3_ST_Example\\3_ST_Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\09.MULTITHREAD\\09_MULTI_THREAD\\3_ST_Example\\3_ST_Example.csproj",
+        "projectName": "3_ST_Example",
+        "projectPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\09.MULTITHREAD\\09_MULTI_THREAD\\3_ST_Example\\3_ST_Example.csproj",
+        "packagesPath": "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\",
+        "outputPath": "T:\\02.GIT REPO\\06_C-\\02.CODE SAMPLES\\09.MULTITHREAD\\09_MULTI_THREAD\\3_ST_Example\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ThillaiShanmugam1714\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

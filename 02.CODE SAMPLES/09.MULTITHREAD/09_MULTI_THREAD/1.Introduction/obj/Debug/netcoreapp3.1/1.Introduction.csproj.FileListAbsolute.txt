@@ -1,0 +1,13 @@
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.exe
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.deps.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.runtimeconfig.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.runtimeconfig.dev.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\bin\Debug\netcoreapp3.1\1.Introduction.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.csproj.AssemblyReference.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.AssemblyInfoInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.AssemblyInfo.cs
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\09.MULTITHREAD\09_MULTI_THREAD\1.Introduction\obj\Debug\netcoreapp3.1\1.Introduction.genruntimeconfig.cache
