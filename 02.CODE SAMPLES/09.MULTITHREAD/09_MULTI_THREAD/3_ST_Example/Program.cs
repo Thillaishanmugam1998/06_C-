@@ -10,7 +10,8 @@ namespace ThreadingDemo
         {
             Thread t1 = new Thread(Method1) { Name = "Thread-1"};
             Thread t2 = new Thread(Method2) { Name = "Thread2"};
-            Thread t3 = new Thread(Method3) { Name = "Thread3" };
+            Thread t3 = new Thread(Method3);
+            t3.Name = "Thread3";
 
             t1.Start();
             t2.Start();

@@ -1,23 +1,28 @@
 ﻿using System;
+using System.IO;
 using System.Threading;
 
 namespace ThreadWithoutJoin
 {
     class Program
     {
-        static void Worker()
+        static string fileData;
+
+        static void ReadFile()
         {
-            Console.WriteLine("Worker started");
-            Thread.Sleep(2000);
-            Console.WriteLine("Worker finished");
+            Console.WriteLine("File reading started...");
+            Thread.Sleep(2000); // simulate delay
+            fileData = File.ReadAllText("data.txt");
+            Console.WriteLine("File reading completed");
         }
 
         static void Main()
         {
-            Thread t = new Thread(Worker);
+            Thread t = new Thread(ReadFile);
             t.Start();
 
-            Console.WriteLine("Main thread finished");
+            Console.WriteLine("Processing file data...");
+            Console.WriteLine($"File length: {fileData.Length}");
         }
     }
 }
