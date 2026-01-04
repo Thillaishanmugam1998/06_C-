@@ -1,0 +1,13 @@
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.exe
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.deps.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.runtimeconfig.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.runtimeconfig.dev.json
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\bin\Debug\netcoreapp3.1\Example_3.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.csproj.AssemblyReference.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.AssemblyInfoInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.AssemblyInfo.cs
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.dll
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.pdb
+T:\02.GIT REPO\06_C-\02.CODE SAMPLES\10.ASYNC\AsyncDemo\Example_3\obj\Debug\netcoreapp3.1\Example_3.genruntimeconfig.cache

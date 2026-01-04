@@ -1,0 +1,68 @@
+Namma oru Hotel Kitchen-ah example-ah vechupom.
+
+1. Thread (The Worker)
+Oru Kitchen-la vela seiyura Cook dhaan "Thread".
+
+Oru Thread-na oru velaikaaran.
+
+Oru computer program-la oru "Thread" dhaan instructions-ah execute pannum.
+
+Single Thread: Oru cook dhaan irukaaru.
+
+Multi-thread: Neraya cooks irukaanga.
+
+2. Concurrency (Dealing with many things)
+Idhu oru Management style. Oru cook-ey (Single Thread) ore nerathula neraya orders-ah gavanikkaradhu dhaan Concurrency.
+
+Example: Cook stove-la tea-ya vepparu, adhu ready aagura gappula onion cut pannuvaaru.
+
+Inge rendu vela nadakudhu (Tea & Onion), aana oru cook dhaan maathi maathi panraaru.
+
+Key Idea: Dealing with many things at once (Managing tasks).
+
+3. Parallelism (Doing many things)
+Idhu Speed kaaga panradhu. Inge multiple threads (Cooks) ore samayathula vera vera vela seivaanga.
+
+Example: Oru cook Tea poduvaaru, adhey second-la innoru cook Dosa sudunvaaru.
+
+Rendu velayum "simultaneously" (at the exact same microsecond) nadakudhu.
+
+Key Idea: Doing many things at once (Executing tasks).
+
+4. Async - Asynchronous (Waiting smartly)
+Idhu oru vithyasamana technique. Oru vela mudiyura varaikkum wait pannama, adha "back-end"-la vittutu vera vela paakradhu.
+
+Example: Cook oven-la cake-ah vechutu, "Cake ready aanavudane ring adikkum" nu sollittu, adutha order paaka poiduvaaru.
+
+Oven munnadiye cake mudiyura varaikkum nikka maattaru.
+
+In Programming: Database la irundhu data vara time aagum na, adhu vara varaikkum program-ah stop pannama vera vela paakradhu dhaan Async.
+
+
+1. Thread (The Virtual Worker)
+CPU-la Core nu onnu irukum (e.g., Quad-core, Octa-core). Oru Core-kulla pala Threads odum.
+
+Concept: Thread-ngradhu OS kudukura oru small sequence of instructions.
+
+Real-time: Nee Chrome open panni oru tab-la YouTube paakura, innoru tab-la download podura na, ovvoru tab-um oru thread-ah run aagum.
+
+2. Concurrency (Context Switching)
+Idhu un CPU-la Single Core mattum irundha epidi vela seiyum nu solra logic.
+
+CPU Level: CPU oru nano-second-la oru task-ah paakum, adutha nano-second-la innoru task-ku thaavum. Idhu "Context Switching" nu solluvanga.
+
+Example: Mouse-ah move pandra (Task A), adhey nerathula music kekura (Task B). CPU ivlo vegama switch aagum na, namakku rendu vela ore nerathula nadakura maari thonum. Aana unmaiyila adhu oru task-ah "pause" panni innonnu pannudhu.
+
+3. Parallelism (Multi-core Power)
+Idhu un CPU-la Multiple Cores irundha nadakuradhu.
+
+CPU Level: Core 1 oru programming task-ah paakum, Core 2 appadiye side-la innoru heavy task-ah (like Video rendering) paakum.
+
+Example: Ipo un kitta 8-core processor irukku na, 8 vera vera velaigalai oru thuli kooda delay illama unmaiyilaye "ore nerathula" CPU-vaala panna mudiyum.
+
+4. Async (Non-blocking I/O)
+Idhu CPU-voda "Waiting time"-ah save panna use aagudhu.
+
+CPU Level: CPU romba fast, aana Hard Disk (SSD) and Internet romba slow. CPU oru file-ah download panna command kuduthuttu, adhu download aagura varaikkum summma nikkaama, adutha instruction-ah execute panna poyidum.
+
+Example: Nee oru website-la "Submit" button click pandra. Data server-ku poi thirumba vara time aagum. "Async" illana un screen freeze aydum (Waiting). "Async" irundha, data vandhuttu irukum podhey nee screen-la matha edathula click pannalam.
